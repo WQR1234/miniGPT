@@ -72,4 +72,6 @@ python sample_gradio.py
 ## GPT2
 ### [英文视频](https://www.youtube.com/watch?v=l8pRSuU81PU)
 ### [中文视频](https://www.bilibili.com/video/BV12s421u7sZ)
-### [代码](https://github.com/karpathy/nanoGPT)
+### [代码](https://github.com/karpathy/nanoGPT)  
+
+## [模型文件下载](https://drive.google.com/file/d/1G9tAASBqgs1OC1P6C64sBnOhTLoEVSoC/view?usp=drive_link)
